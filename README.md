@@ -1,0 +1,3 @@
+- 👋 Hello myself Rithin Shetty
+- 👀 I’m interested in coding and learning more about other programming language
+- 🌱 I’m currently learning in St Joseph Engineering College, Mangalore
